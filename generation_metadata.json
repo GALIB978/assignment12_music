@@ -1,0 +1,27 @@
+{
+    "assignment": "Assignment 12 - AI Music API vs Local Model",
+    "group": "Cronous",
+    "members": [
+        "Prova Zarin",
+        "Akther Rubina",
+        "Islam K",
+        "Bin Mahamud Galib"
+    ],
+    "model": "acestep-v15-turbo",
+    "generation_method": "Local ACE-Step 1.5 REST API",
+    "target_duration_seconds": 165,
+    "actual_duration_seconds": 165,
+    "target_duration": "2:45",
+    "actual_duration": "2:45",
+    "bpm": 128,
+    "key_scale": "E Major",
+    "time_signature": "4/4",
+    "vocal_language": "English",
+    "inference_steps": 8,
+    "thinking": false,
+    "task_type": "text2music",
+    "audio_format": "mp3",
+    "prompt": "English, upbeat futuristic electronic pop, energetic drums, punchy synth bass, bright synthesizers, electric guitar, catchy melody, modern polished production, inspiring and optimistic mood, male lead vocal with female backing vocals, memorable anthemic chorus, dynamic arrangement, clear vocals, strong beat, futuristic technology atmosphere, robotics and artificial intelligence theme, emotional bridge, powerful final chorus, clean professional studio sound.",
+    "lyrics": "[Intro]\nLights are coming on tonight\nMachines are waking in the light\nStep by step, we start again\nBuilding dreams with code and brain\n\n[Verse 1]\nI see the circuits come alive\nA digital world begins to rise\nRobots moving, learning fast\nTurning every dream into the future we can grasp\n\nEvery question, every try\nTakes us one step closer to the sky\n\n[Pre-Chorus]\nWe don't know what tomorrow brings\nBut we can build amazing things\nWith every failure, every try\nWe learn to reach a little higher\n\n[Chorus]\nWe code the future, we light the way\nCreating tomorrow from today\nAI is thinking, robots move\nWe're finding something new to prove\n\nWe code the future, side by side\nWith innovation as our guide\nFrom imagination to reality\nWe're building the world we want to see\n\n[Verse 2]\nSensors watching through the night\nMaking everything work just right\nMachines can see and machines can learn\nEvery new idea makes the whole world turn\n\nHuman dreams will lead the way\nWe're creating something better every day\n\n[Chorus]\nWe code the future, we light the way\nCreating tomorrow from today\nAI is thinking, robots move\nWe're finding something new to prove\n\nWe code the future, side by side\nWith innovation as our guide\nFrom imagination to reality\nWe're building the world we want to see\n\n[Bridge]\nOne idea can change the world\nOne small spark can make it glow\nKeep on learning, keep on trying\nThere is no limit where we can go\n\n[Final Chorus]\nWe code the future, we light the way\nCreating tomorrow from today\nAI is thinking, robots move\nWe're finding something new to prove\n\nWe code the future, side by side\nWith innovation as our guide\n\n[Outro]\nWe code, we create, we dream, we grow\nTogether we decide where technology will go",
+    "output_file": "generated_song.mp3"
+}
