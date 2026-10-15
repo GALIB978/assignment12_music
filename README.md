@@ -30,80 +30,81 @@ English, upbeat futuristic electronic pop, energetic drums, punchy synth bass, b
 
 ## Lyrics
 
-[Intro]
-Lights are coming on tonight
-Machines are waking in the light
-Step by step, we start again
-Building dreams with code and brain
+[Intro]<br>
+Lights are coming on tonight<br>
+Machines are waking in the light<br>
+Step by step, we start again<br>
+Building dreams with code and brain<br><br>
 
-[Verse 1]
-I see the circuits come alive
-A digital world begins to rise
-Robots moving, learning fast
-Turning every dream into the future we can grasp
+[Verse 1]<br>
+I see the circuits come alive<br>
+A digital world begins to rise<br>
+Robots moving, learning fast<br>
+Turning every dream into the future we can grasp<br><br>
 
-Every question, every try
-Takes us one step closer to the sky
+Every question, every try<br>
+Takes us one step closer to the sky<br><br>
 
-[Pre-Chorus]
-We don't know what tomorrow brings
-But we can build amazing things
-With every failure, every try
-We learn to reach a little higher
+[Pre-Chorus]<br>
+We don't know what tomorrow brings<br>
+But we can build amazing things<br>
+With every failure, every try<br>
+We learn to reach a little higher<br><br>
 
-[Chorus]
-We code the future, we light the way
-Creating tomorrow from today
-AI is thinking, robots move
-We're finding something new to prove
+[Chorus]<br>
+We code the future, we light the way<br>
+Creating tomorrow from today<br>
+AI is thinking, robots move<br>
+We're finding something new to prove<br><br>
 
-We code the future, side by side
-With innovation as our guide
-From imagination to reality
-We're building the world we want to see
+We code the future, side by side<br>
+With innovation as our guide<br>
+From imagination to reality<br>
+We're building the world we want to see<br><br>
 
-[Verse 2]
-Sensors watching through the night
-Making everything work just right
-Machines can see and machines can learn
-Every new idea makes the whole world turn
+[Verse 2]<br>
+Sensors watching through the night<br>
+Making everything work just right<br>
+Machines can see and machines can learn<br>
+Every new idea makes the whole world turn<br><br>
 
-Human dreams will lead the way
-We're creating something better every day
+Human dreams will lead the way<br>
+We're creating something better every day<br><br>
 
-[Chorus]
-We code the future, we light the way
-Creating tomorrow from today
-AI is thinking, robots move
-We're finding something new to prove
+[Chorus]<br>
+We code the future, we light the way<br>
+Creating tomorrow from today<br>
+AI is thinking, robots move<br>
+We're finding something new to prove<br><br>
 
-We code the future, side by side
-With innovation as our guide
-From imagination to reality
-We're building the world we want to see
+We code the future, side by side<br>
+With innovation as our guide<br>
+From imagination to reality<br>
+We're building the world we want to see<br><br>
 
-[Bridge]
-One idea can change the world
-One small spark can make it glow
-Keep on learning, keep on trying
-There is no limit where we can go
+[Bridge]<br>
+One idea can change the world<br>
+One small spark can make it glow<br>
+Keep on learning, keep on trying<br>
+There is no limit where we can go<br><br>
 
-[Final Chorus]
-We code the future, we light the way
-Creating tomorrow from today
-AI is thinking, robots move
-We're finding something new to prove
+[Final Chorus]<br>
+We code the future, we light the way<br>
+Creating tomorrow from today<br>
+AI is thinking, robots move<br>
+We're finding something new to prove<br><br>
 
-We code the future, side by side
-With innovation as our guide
+We code the future, side by side<br>
+With innovation as our guide<br><br>
 
-[Outro]
-We code, we create, we dream, we grow
+[Outro]<br>
+We code, we create, we dream, we grow<br>
 Together we decide where technology will go
 
 ## Generation Settings
 
 - Model: ACE-Step 1.5 Turbo
+- Variant: acestep-v15-turbo
 - Language: English
 - BPM: 128
 - Key: E Major
@@ -147,6 +148,8 @@ We selected ACE-Step 1.5 because it can generate music locally without requiring
 ## Result
 
 The final output is a complete English electronic pop song about robotics, artificial intelligence, innovation, and the future of technology.
+
+The generated song has a duration of **165 seconds (2:45)**.
 
 ## Limitations
 
